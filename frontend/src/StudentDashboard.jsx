@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 
+
 // ─── DATA ───────────────────────────────────────────────────────────────────
 
 const student = {
